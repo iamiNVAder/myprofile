@@ -1,43 +1,48 @@
 data = {
-    'name': 'James Tiberius Kirk',
-    'nickname': 'Jim',
-    'image': 'kirk.jpg',
+    'name': 'Yuttakhan Baingen',
+    'nickname': 'Bier',
+    'image': 'bier.jpg',
     'greeting_msg': 'Hi, there!',
     'about': """
-        James Tiberius "Jim" Kirk was a male Human Starfleet officer in the 23rd century. He was arguably one of the most famous and highly decorated starship captains in the history of Starfleet. As the commanding officer of the Constitution-class starships USS Enterprise and USS Enterprise-A, Kirk served United Federation of Planets interests as an explorer, soldier, time-traveler, and diplomat.
+        A Computer Engineering student in King Mongkut's Institute of Technology Ladkrabang, interested in technology, programming, videography and video games.
     """,
     'work': {
-        'position': 'Starfleet officer',
-        'at': 'Starfleet'
+        'position': 'Student',
+        'at': 'KMITL'
     },
     'courses': [
         {
-            'name': 'How to survive in Kobayashi Maru mission',
-            'school': 'Starfleet Academy',
+            'name': 'Making Business like Mr.Yugoslaf.',
+            'school': 'America-Mexico Border, USA',
             'url': 'kobayashimaru'
         },
         {
-            'name': 'Advanced Navigation',
-            'school': 'Starfleet Academy',
+            'name': 'ขายของอย่างไรถึงจะไม่เกมส์.',
+            'school': 'From Thailand',
+            'url': 'kobayashimaru'
+        },
+        {
+            'name': 'Hard-sell Marketing',
+            'school': 'Yale University',
             'url': 'adv-nav'
         },
         {
-            'name': 'Basic Warp Design',
-            'school': 'Starfleet Academy',
+            'name': 'Dream Castle Design and Implementation, Mind Heist and Manipulation',
+            'school': 'Cobbs Institutes.',
             'url': 'warp-design'
         },
         {
-            'name': 'Klingon Physiology',
-            'school': 'Valcan State Institute of Technology',
+            'name': 'Marijuana Plantation for Recreational Uses.',
+            'school': 'Snoop Doggy Doge Dog House',
             'url': 'klingon-phys'
         }
     ],
     'skills': [
         'Leadership',
-        'Leadership',
-        'Human Language',
-        'Borg Language',
-        'Valcan Language',
-        'Sleeping'
+        'Coding',
+        'English, Espanol, Japanese and Thai language',
+        'Video Editing & Production',
+        'Engineering',
+        'Marijuana Plantation'
     ]
 }
